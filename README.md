@@ -2,6 +2,10 @@
 
 The goal is to have a docker image aimed at local theme and plugin development with fast protoype spinup.
 
+## Installing
+
+Good luck!
+
 ## Authors
 
 - **[Justin Chiou](https://github.com/Shadowlion)**
