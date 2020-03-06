@@ -4,7 +4,7 @@ The goal is to have a docker image aimed at local theme and plugin development w
 
 ## Authors
 
-* **Justin Chiou** - *Initial work* - [Shadowlion](https://github.com/Shadowlion)
+- **[Justin Chiou](https://github.com/Shadowlion)**
 
 See also the list of [contributors](https://github.com/shadowlion/wp-docker/graphs/contributors) who participated in this project.
 
