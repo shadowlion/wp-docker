@@ -39,4 +39,7 @@ function theme_styles() {
 
 add_action('wp_enqueue_scripts', 'theme_styles');
 
+// Dynamic Title tag
+add_theme_support( 'title-tag' );
+
 ?>
