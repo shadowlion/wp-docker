@@ -4,7 +4,16 @@ The goal is to have a docker image aimed at local theme and plugin development w
 
 ## Installing
 
-Good luck!
+```bash
+# start the images for MySQL and Wordpress
+docker-compose up -d
+
+# access the local server at http://localhost:8000
+```
+
+## Development
+
+You can either use the `theme` or `plugin` folder (or both!)
 
 ## Authors
 
